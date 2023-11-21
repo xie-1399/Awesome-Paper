@@ -4,13 +4,16 @@ The trace of Paper Reading about DSA、GPU、LLM and AI System , remark "***" sh
 
 ## DSA (Domain Deep Learning Accelerator)
 
+##### *** OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization [link](https://arxiv.org/abs/2304.07493)
+量化的软硬件结合设计方法，用于解决Transformer中的离群点问题（即量化加速器设计，可以归结为一类问题）
+
 ## GPU 
 
 ## LLM
 #### 【survey】
-*** Full Stack Optimization of Transformer Inference: a Survey  [link](https://arxiv.org/abs/2302.14017) 
+##### *** Full Stack Optimization of Transformer Inference: a Survey  [link](https://arxiv.org/abs/2302.14017) 
 
-这是一篇关于大模型推理加速的综述，从
+这是一篇关于大模型推理加速的综述
 
 #### 【hardware】
 
