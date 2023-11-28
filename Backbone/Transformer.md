@@ -4,7 +4,7 @@
 
 #### 一  NLP Architecture
 
-![image-20231128161812171](C:\Users\31619\AppData\Roaming\Typora\typora-user-images\image-20231128161812171.png)
+![image-20231128161812171](https://github.com/xie-1399/Awesome-Paper/blob/main/Pic/BackBone/Trans1.png)
 
 ###### Encoder
 
