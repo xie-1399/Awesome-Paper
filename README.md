@@ -5,7 +5,8 @@ The trace of Paper Reading about DSA、GPU、LLM and AI System , remark "***" sh
 ## DSA (Domain Deep Learning Accelerator)
 
 ##### *** OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization [link](https://arxiv.org/abs/2304.07493)
-量化的软硬件结合设计方法，用于解决Transformer中的离群点问题（即量化加速器设计，可以归结为一类问题）
+量化的软硬件结合设计方法，用于解决Transformer中的离群点问题（即量化加速器设计，可以归结为一类问题），
+可见DSA中的LLM quantization and architecture co-design.md [link](https://github.com/xie-1399/Awesome-Paper/blob/main/DSA/LLM%20quantization%20and%20architecture%20co-design.md)，主要介绍大模型训练后量化的一些软硬件结合方法
 
 ## GPU 
 
