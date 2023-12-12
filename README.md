@@ -6,6 +6,7 @@ The trace of Paper Reading about DSA、GPU、LLM and AI System , remark "***" sh
 
 ##### *** Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks [link](https://ieeexplore.ieee.org/document/7738524)
 非常经典的CNN加速器，整体架构如下图
+
 ![image-eyerissV1](https://github.com/xie-1399/Awesome-Paper/blob/main/Pic/BackBone/eyerissV1.png)
 
 
